@@ -122,6 +122,6 @@ class Kam_Admin {
 		);
 
 		register_post_type( 'activities', $args );
-	}
-
+		}
+		
 }
